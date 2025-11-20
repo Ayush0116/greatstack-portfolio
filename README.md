@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GreatStack
 
 **GreatStack** is a modern, responsive, and user‑friendly web platform (or “website”) designed to [explain purpose — e.g., “showcase our services, blog about web development, offer tools”].  
@@ -55,3 +56,7 @@ If someone wants to run the website locally (for development), here are the step
    ```bash
    git clone https://github.com/your‑username/greatstack.git
    cd greatstack
+=======
+# greatstack-portfolio
+A step-by-step React project featuring component architecture, routing, and responsive design.
+>>>>>>> 41f02caa2cac7e854d5a8cc76d7a6d1894d264a7
